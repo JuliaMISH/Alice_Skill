@@ -1,6 +1,9 @@
-<h2 align="center">Alice's skills<h2>
+<h2 align="center">Alice's skills<image src="alisa.jpg" alt="Алиса"><h2>
+
+
  
-<image src="alisa.png" alt="Алиса">
+<image src="yandex.png" alt="Алиса">
+
   
 
 
